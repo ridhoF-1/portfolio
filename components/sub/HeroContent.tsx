@@ -66,7 +66,7 @@ const HeroContent = () => {
           alt="work icons"
           height={400}
           width={400}
-          className=" bg-blend-darken"
+          className="invisible sm:visible bg-blend-darken"
         />
       </motion.div>
     </motion.div>
